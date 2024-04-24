@@ -82,4 +82,13 @@ So, ready to add some sparkle to this challenge? Let's make these diamonds shine
 ---
 
 ## How to run
-Please fill this section as part of the assignment.
+Challenge 1
+To run the code for the challenge one a notebook, all the dependecies will be installed along the notebook.
+Notebook: ''
+Using a decision tree and pycaret to see other results.
+Challenge 2/3
+Build a rest api with two apps, only app.py works and get server response on post
+The other app called app2.py tried a pipeline and preprocessing the raw data and trained de model with all dataset but, couldnt get a response from the server
+I used UVicorn and fastapi
+
+
